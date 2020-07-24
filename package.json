@@ -1,0 +1,19 @@
+{
+  "name": "asw-vue-directive",
+  "version": "1.0.0",
+  "description": "This repo content lot of cool vue directives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/complex1/asw-vue-directive.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/complex1/asw-vue-directive/issues"
+  },
+  "homepage": "https://github.com/complex1/asw-vue-directive#readme"
+}
