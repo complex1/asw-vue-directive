@@ -1,0 +1,9 @@
+div#wt_tooltip {
+  padding: 5px;
+  background: #adacac;
+  color: #5a5858;
+  border: 1px solid #989898;
+  box-shadow: -1px -1px 5px #a7a7a7;
+  font-size: 12px;
+  border-radius: 5px;
+}
